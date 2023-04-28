@@ -43,17 +43,9 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://microverse.org/">Microverse</a></li>
+    <li><a href="https://microverse.org/">HTML & CSS</a></li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a></li>
-  </ul>
-</details>
-
 
 ### Key Features <a name="key-features"></a>
 
@@ -71,7 +63,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://danielf-canon.github.io/Hello-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +83,7 @@ To get a local copy up and running, follow these steps.
 
 
 👤 **Daniel Felipe Cañón**
-
+- Twitter: [Twitter](https://twitter.com/canonsanchezd)
 - GitHub: [@githubhandle](https://github.com/danielf-canon)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/daniel-felipe-canon-sanchez)
 
@@ -131,12 +123,5 @@ If you like this project send a message and let me know it.
 
 I would like to thank every persone that has encouraged me to keep going and Microverse for giving me the opportunity to improve my coding knowledge.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
