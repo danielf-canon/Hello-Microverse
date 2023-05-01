@@ -17,8 +17,12 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -58,18 +62,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://danielf-canon.github.io/Hello-Microverse/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -78,6 +73,22 @@ To get a local copy up and running, follow these steps.
 >Github, git, Visual Studio Code, Nodejs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Setup
+
+Clone this repository to your desired folder: https://github.com/danielf-canon/Hello-Microverse.git
+
+### Install
+
+Install this project using git.
+
+### Usage
+
+To run the project, open it in Visual Studio Code. 
+
+### Run tests
+
+To run tests use the live server extension.
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -111,8 +122,6 @@ Feel free to check the [issues page](../../issues/).
 
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project send a message and let me know it.
 
